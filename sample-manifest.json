@@ -1,0 +1,12 @@
+{
+  "export_job_id": "e676d206-c422-44f2-aad0-c623fb946233",
+  "id_short": 481454,
+  "published_at": "2026-04-17T07:22:53Z",
+  "repo_name": "restaurant-tiktok-renegades-in-pennsylvania-us-sample-481454",
+  "sample_asset_name": "beamstation_481454_restaurants-us-pa_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/481454/beamstation_481454_restaurants-us-pa_SAMPLE_DIST.csv",
+  "sample_records": 11,
+  "sample_sha256": "337a25e0c57dc671836302f0bbb48eb1e65ea8bb04a2d17202cc6866ba1aa268",
+  "sample_size_bytes": 61396,
+  "total_records": 122
+}
