@@ -6,17 +6,17 @@
   "config_category": "social",
   "config_description": "--Social Platform Gap-- \n\nHigh IG followers (>10k) but near-zero activity on TikTok presence. Perfect for social media and content agencies.",
   "config_name": "Restaurant TikTok Renegades in Pennsylvania, US",
-  "export_job_id": "e676d206-c422-44f2-aad0-c623fb946233",
+  "export_job_id": "6c560641-833f-4828-83fb-37da95c9b750",
   "github_org": "Beamstation-Datasets",
   "id_short": 481454,
   "location_name": "Pennsylvania",
   "location_type": "state",
   "repo_name": "restaurant-tiktok-renegades-in-pennsylvania-us-sample-481454",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/481454/beamstation_481454_restaurants-us-pa_SAMPLE_DIST.csv",
-  "sample_pct": 9.02,
+  "sample_pct": 9.48,
   "sample_records": 11,
   "sample_sha256": "337a25e0c57dc671836302f0bbb48eb1e65ea8bb04a2d17202cc6866ba1aa268",
   "sample_size_bytes": 61396,
-  "total_records": 122,
-  "updated_at": "2026-04-08T04:42:48.934550+00:00"
+  "total_records": 116,
+  "updated_at": "2026-04-15T09:14:52.550196+00:00"
 }
