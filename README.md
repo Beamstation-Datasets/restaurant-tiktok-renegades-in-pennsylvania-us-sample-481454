@@ -1,6 +1,6 @@
 # Restaurant TikTok Renegades in Pennsylvania, US
 
-> Free BeamStation sample export with 11 rows and masked direct-contact fields.
+> Free BeamStation sample export with 9 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `481454` |
 | Location | Pennsylvania |
 | Category | Restaurants |
-| Full dataset size | 116 records |
-| Free sample size | 11 records (9.48%) |
-| Last export | 2026-04-15T09:14:52.550196+00:00 |
+| Full dataset size | 94 records |
+| Free sample size | 9 records (9.57%) |
+| Last export | 2026-04-22T16:32:55.057628+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-tiktok-renegades-in-pennsylvania-us-sample-481454/releases/download/sample-latest/beamstation_481454_restaurants-us-pa_SAMPLE_DIST.csv) |
 
 ## What is in this sample
